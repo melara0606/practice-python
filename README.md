@@ -1,2 +1,5 @@
 # Practicas de python
-Conociendo las bases necesarias para el manejo de Python
+
+Archivos de practica del curso de python.
+Conociendo lo basico hasta los topicos avanzados
+del este fenomenal lenguaje.
