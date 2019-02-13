@@ -16,6 +16,7 @@ class MyThread(threading.Thread):
     global cantidad
     try:
       semaforo.acquire()
+      
       cantidad = cantidad + {
         'Jean': lambda x: -x,
         'Carlos': lambda x: +x,
